@@ -26,7 +26,7 @@ This project is a home lab setup designed to practice core skills in Windows Ser
 ## Author
 
 Abdul Basit  
-[LinkedIn](https://www.linkedin.com/in/abdul-basit)  
+[LinkedIn](https://www.linkedin.com/in/abdul-basit-19177034a/)  
 Email: abdulbasit.itpro@gmail.com
 
 ## License
