@@ -23,17 +23,6 @@ This project is a home lab setup designed to practice core skills in Windows Ser
 - PowerShell
 - Basic networking knowledge
 
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/active-directory-lab.git
-   ```
-
-2. Open the `documentation/lab_setup_guide.md` for step-by-step instructions.
-
-3. Run PowerShell scripts from the `scripts/` directory to automate setup.
-
 ## Author
 
 Abdul Basit  
